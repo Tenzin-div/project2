@@ -1,2 +1,2 @@
 # project2
-this project in vs code by tenzin kalsnag
+this project in vs code by Tenzin Kalsang
